@@ -1,5 +1,5 @@
 
-VIMRC TUTORIAL
+VIM TUTORIAL
 =
 
 #Creating a file
