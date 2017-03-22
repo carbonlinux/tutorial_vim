@@ -45,11 +45,11 @@ Picking up the brush
 Scanning the canvas 
 ===
 	
-	       	k 
-			^
-	   h< 		>l
-			v
-            j
+	       	 k 
+			 ^
+	     h<     >l
+			 v
+             j
 
 " Why hjkl and not jkl;" 
 
