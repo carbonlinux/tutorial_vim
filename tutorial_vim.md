@@ -12,14 +12,14 @@ MODES >>
 
 Basic mode 
 
-	Normal mode 
-	visual mode 
-	insert mode 
-	command mode
+	Normal mode  - Esc Ctrl +[
+	visual mode  - v
+	insert mode  - iIoOsSaA 
+	command mode - : 
 Advance mode 
 
-	Xetream mode
-	Block mode
+	Xteam mode
+	Block mode  - Ctrl +v
 
 Pen to the page
 ===
